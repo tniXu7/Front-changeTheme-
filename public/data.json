@@ -1,0 +1,274 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Ноутбук ASUS VivoBook 15",
+        "price": 45000,
+        "description": "15.6 дюймов, Intel Core i5, 8 ГБ ОЗУ, 512 ГБ SSD",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Электроника",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "title": "Смартфон Samsung Galaxy S21",
+        "price": 60000,
+        "description": "6.2 дюймов, 128 ГБ, Phantom Gray",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Электроника",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "title": "Наушники",
+        "price": 25000,
+        "description": "Беспроводные, шумоподавление, черный",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Электроника",
+        "rating": 4.9
+      },
+      {
+        "id": 4,
+        "title": "Фитнес-браслет Xiaomi Mi Band 6",
+        "price": 3000,
+        "description": "Цветной AMOLED-экран, черный",
+        "image": "https://via.placeholder.com/150",
+        "category": "Электроника",
+        "rating": 4.6
+      },
+      {
+        "id": 5,
+        "title": "Планшет Apple iPad Air",
+        "price": 55000,
+        "description": "10.9 дюймов, 64 ГБ, Space Gray",
+        "image": "https://via.placeholder.com/150",
+        "category": "Электроника",
+        "rating": 4.8
+      },
+      {
+        "id": 6,
+        "title": "Фотоаппарат Canon EOS R6",
+        "price": 150000,
+        "description": "Зеркальный, 20 Мп, 4K видео",
+        "image": "https://via.placeholder.com/150",
+        "category": "Электроника",
+        "rating": 4.9
+      },
+      {
+        "id": 7,
+        "title": "Монитор Dell UltraSharp 27",
+        "price": 40000,
+        "description": "27 дюймов, 4K, IPS",
+        "image": "https://via.placeholder.com/150",
+        "category": "Электроника",
+        "rating": 4.7
+      },
+      {
+        "id": 8,
+        "title": "Игровая мышь Logitech G502",
+        "price": 5000,
+        "description": "11 программируемых кнопок, RGB",
+        "image": "https://via.placeholder.com/150",
+        "category": "Электроника",
+        "rating": 4.8
+      },
+      {
+        "id": 9,
+        "title": "Клавиатура Keychron K6",
+        "price": 7000,
+        "description": "Механическая, Bluetooth, 65%",
+        "image": "https://via.placeholder.com/150",
+        "category": "Электроника",
+        "rating": 4.7
+      },
+      {
+        "id": 10,
+        "title": "Колонка JBL Flip 5",
+        "price": 8000,
+        "description": "Портативная, водонепроницаемая, синий",
+        "image": "https://via.placeholder.com/150",
+        "category": "Электроника",
+        "rating": 4.6
+      },
+      {
+        "id": 11,
+        "title": "Футболка мужская",
+        "price": 1500,
+        "description": "Хлопок, черный",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.5
+      },
+      {
+        "id": 12,
+        "title": "Джинсы женские",
+        "price": 3000,
+        "description": "Скинни, синий",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.6
+      },
+      {
+        "id": 13,
+        "title": "Куртка зимняя",
+        "price": 10000,
+        "description": "Пуховая, черный",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.7
+      },
+      {
+        "id": 14,
+        "title": "Кроссовки Nike Air Max",
+        "price": 8000,
+        "description": "Беговые, белый",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.8
+      },
+      {
+        "id": 15,
+        "title": "Рюкзак Herschel",
+        "price": 5000,
+        "description": "Повседневный, синий",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.6
+      },
+      {
+        "id": 16,
+        "title": "Часы Casio G-Shock",
+        "price": 12000,
+        "description": "Ударопрочные, черный",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.7
+      },
+      {
+        "id": 17,
+        "title": "Очки Ray-Ban",
+        "price": 9000,
+        "description": "Солнцезащитные, черный",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.8
+      },
+      {
+        "id": 18,
+        "title": "Шапка вязаная",
+        "price": 1000,
+        "description": "Шерсть, серый",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.5
+      },
+      {
+        "id": 19,
+        "title": "Платье вечернее",
+        "price": 7000,
+        "description": "Шелк, черный",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.7
+      },
+      {
+        "id": 20,
+        "title": "Сумка женская",
+        "price": 6000,
+        "description": "Кожа, бежевый",
+        "image": "https://via.placeholder.com/150",
+        "category": "Одежда",
+        "rating": 4.6
+      },
+      {
+        "id": 21,
+        "title": "Книга '1984'",
+        "price": 500,
+        "description": "Джордж Оруэлл",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.9
+      },
+      {
+        "id": 22,
+        "title": "Книга 'Мастер и Маргарита'",
+        "price": 600,
+        "description": "Михаил Булгаков",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.8
+      },
+      {
+        "id": 23,
+        "title": "Книга 'Гарри Поттер и Философский камень'",
+        "price": 700,
+        "description": "Джоан Роулинг",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.9
+      },
+      {
+        "id": 24,
+        "title": "Книга 'Война и мир'",
+        "price": 800,
+        "description": "Лев Толстой",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.7
+      },
+      {
+        "id": 25,
+        "title": "Книга 'Преступление и наказание'",
+        "price": 550,
+        "description": "Федор Достоевский",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.8
+      },
+      {
+        "id": 26,
+        "title": "Книга 'Маленький принц'",
+        "price": 400,
+        "description": "Антуан де Сент-Экзюпери",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.9
+      },
+      {
+        "id": 27,
+        "title": "Книга 'Алхимик'",
+        "price": 650,
+        "description": "Пауло Коэльо",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.7
+      },
+      {
+        "id": 28,
+        "title": "Книга 'Три товарища'",
+        "price": 750,
+        "description": "Эрих Мария Ремарк",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.8
+      },
+      {
+        "id": 29,
+        "title": "Книга 'Тень горы'",
+        "price": 900,
+        "description": "Грегори Дэвид Робертс",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.7
+      },
+      {
+        "id": 30,
+        "title": "Книга 'Шантарам'",
+        "price": 850,
+        "description": "Грегори Дэвид Робертс",
+        "image": "https://via.placeholder.com/150",
+        "category": "книги",
+        "rating": 4.8
+      }
+    ]
+  }
